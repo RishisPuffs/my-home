@@ -19,8 +19,8 @@ function startTime() { // days
     greet = ', Good Evening';
 
     document.getElementById('sGreetings').innerHTML = 
-    'today is ' + '<b>' + days[today.getDay()] + '</b>' +
-    '<b>' + greet + '</b> rishi!';  //greet
+    'Today is ' + '<b>' + days[today.getDay()] + '</b>' +
+    '<b>' + greet + '</b> Rishi!';  //greet
 }
 
 function checkTime(i) {
