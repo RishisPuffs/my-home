@@ -7,7 +7,7 @@
 }
 
 body {
- 	background: linear-gradient(270deg, #fec5bb, #fcd5ce, #fae1dd);
+ 	background: linear-gradient(270deg, #fec5bb, #fcd5ce, #6d6875);
 		-webkit-animation: AnimationName 30s ease infinite;
 		-moz-animation: AnimationName 30s ease infinite;
 		animation: AnimationName 30s ease infinite;
